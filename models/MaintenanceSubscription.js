@@ -1,4 +1,4 @@
-// models/MaintenanceSubscription.js
+// models/
 const mongoose = require('mongoose');
 
 const maintenanceSubscriptionSchema = new mongoose.Schema({
